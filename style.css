@@ -84,6 +84,11 @@ p{
     margin-left:auto;
     margin-right:auto;
 }
+
+.subject form input:focus {
+    color: #ff7a00;
+}
+
 .subject:hover {
     border-left:10px #ff7a00 solid;
     background-color:#ddd;
